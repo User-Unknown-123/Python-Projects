@@ -1,0 +1,4 @@
+101,Toothbrush,59
+102,Toothpaste,79
+103,Mouthwash,99
+104,Mints,20
